@@ -20,7 +20,7 @@ end
 # new_array
 # end 
 
-# def reduce(array, starting_value=0)
+def reduce(array, starting_value=0)
   
   
 end
